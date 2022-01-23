@@ -8,7 +8,7 @@ namespace LanePackBarcodes.Logic
     /// </summary>
     public class FileSearch
     {
-        public static string networkPath = "\\\\aub-filesrv-01\\sharevol\\workgroup\\Forms\\LanePacksCopy\\PackingKeys";
+        public static string networkPath = "{redacted}";
 
         /// <summary>
         /// Searches the LanePacks folder for the specified lane pack name using wildcards on either side
